@@ -1,0 +1,51 @@
+body,html{
+	height:100%;
+	padding:0px;
+	margin:0px;
+}
+.a{
+	background-color:transparent;
+	float:left;
+	height:25%;
+	width:20%;
+	border:1px solid orange;
+	border-radius:5px;
+	color:Darkred;
+	font-size:3vh;
+
+}
+.b{
+	background-color:black;
+	width:100%;
+	height:100%;
+	position:background;
+}
+.c{
+	background-color:transparent;
+	float:right;
+	height:25%;
+	width:20%;
+	border:1px solid orange;
+	border-radius:5px;
+	color:Darkred;
+	font-size:3vh;
+}
+
+
+.d{
+	width:100%;
+	position:fixed;
+	bottom:0px;
+}
+.d img{
+	width:100%;
+}
+
+#nave{
+	text-align:center;
+	position:fixed;
+	top:5%;
+	width:100%;
+	height:30%;
+}
+#nave img{height:100%;}
